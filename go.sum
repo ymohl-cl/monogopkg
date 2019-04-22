@@ -1,0 +1,11 @@
+github.com/ymohl-cl/monogopkg/pkg2/pkg1 v0.0.0-20190422233744-556d22bb5336 h1:yjVLm2Mk3xm33Yi3Lpe0A7/5AFTCJf4FNN3920CNywY=
+github.com/ymohl-cl/monogopkg/pkg2/pkg1 v0.0.0-20190422233744-556d22bb5336/go.mod h1:hl6NcWVTtdygIp6haZg7GvesKI2FZ1OpK+OVVGWLXdM=
+github.com/ymohl-cl/monogopkg/pkg2/pkg2 v0.0.0-20190422233744-556d22bb5336 h1:Y5i+mJyJzoCLyDukuWVzxv15+n71nHZ+iixINiO9kd0=
+github.com/ymohl-cl/monogopkg/pkg2/pkg2 v0.0.0-20190422233744-556d22bb5336/go.mod h1:fgllYSfpAwn7/cILexFJlDhFzl8xGU3n29JPXOwJfMA=
+github.com/ymohl-cl/monogopkg/pkg2/pkg3 v0.0.0-20190422232016-d2c3d30ade58/go.mod h1:8nzOJUOnQv2AnzWs2c41WBMbHJMAGXvkGqmWXLyn3+s=
+github.com/ymohl-cl/monogopkg/pkg2/pkg3 v0.0.0-20190422233744-556d22bb5336 h1:4iVW2GUnniWGkCdqHtxq04vJwfbK6vgyvp7NZg13jcY=
+github.com/ymohl-cl/monogopkg/pkg2/pkg3 v0.0.0-20190422233744-556d22bb5336/go.mod h1:8nzOJUOnQv2AnzWs2c41WBMbHJMAGXvkGqmWXLyn3+s=
+github.com/ymohl-cl/monogopkg/pkg2/pkg4 v0.0.0-20190422233744-556d22bb5336 h1:we/xB9+8h17JCjIllnSRB8uCXEBUqwC+r9u39Ssu4bQ=
+github.com/ymohl-cl/monogopkg/pkg2/pkg4 v0.0.0-20190422233744-556d22bb5336/go.mod h1:GGI75elGObQWIj99qEG0C4MnonGfmSEFheZg1NkMUXE=
+github.com/ymohl-cl/monogopkg/pkg2/pkg5 v0.0.0-20190422233744-556d22bb5336 h1:/mBEV2u1KZ50y3UUIYP0BO6aRZg+0UURp4zLKx8nwFs=
+github.com/ymohl-cl/monogopkg/pkg2/pkg5 v0.0.0-20190422233744-556d22bb5336/go.mod h1:gy/kFWvQxo6r2j3EDc6Cr4jYHkx+FGpa/cYblSA97/k=
